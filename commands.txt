@@ -5,3 +5,12 @@
 3) Intialize the git in your folder
         CODE : git init
 4) Config the git repository's from your folder
+        CODE : git config user.email "<your email>"
+        CODE : git config user.name "<your user name>"
+5) Create new branch 
+        CODE : git branch dktp
+6) Checkout the all branches
+        CODE : git branch -a
+7) Switch The branches
+        CODE : git checkout <branch name>
+
