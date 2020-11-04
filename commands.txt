@@ -1,0 +1,7 @@
+/*GIT MAIN CODES*/
+
+1) First Download the git, follow the instructions as per OS
+2) Here i explain you how to use commands in windows system
+3) Intialize the git in your folder
+        CODE : git init
+4) Config the git repository's from your folder
